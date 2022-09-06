@@ -1,9 +1,9 @@
-package io.github.mgntpk.kasudice
+package com.twitter.mgntpk.dice
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.MotionEvent.*
-import io.github.mgntpk.kasudice.databinding.ActivityMainBinding
+import com.twitter.mgntpk.dice.databinding.ActivityMainBinding
 import java.security.SecureRandom
 
 class MainActivity : AppCompatActivity() {

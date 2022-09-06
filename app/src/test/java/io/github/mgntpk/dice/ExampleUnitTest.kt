@@ -1,4 +1,4 @@
-package io.github.mgntpk.kasudice
+package com.twitter.mgntpk.dice
 
 import org.junit.Test
 
